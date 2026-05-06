@@ -6,18 +6,19 @@
 
 </div>
 
-<!-- 视频展示区 -->
+<!-- 视频展示区 - 使用 GIF -->
 <div align="center">
-  <video src="./assets/assets.mp4" width="800" controls autoplay muted loop style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.2);"></video>
+  <img src="./assets/demo.gif" alt="Demo Video" width="800" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.2);"/>
+  <br/>
+  <sub>🎬 Click to watch the demo above</sub>
 </div>
 
 <br/>
 
 <div align="center">
 
-<a href="https://github.com/ZWenHong1">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1500&color=7C4DFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🤖+AI+Explorer+|+Knowledge+Architect;✨+Building+Smart+Tools+with+Code;🚀+Open+Source+Contributor+|+Tech+Explorer;💡+Passionate+about+LLMs+and+DevX" alt="Typing SVG"/>
-</a>
+<!-- Typing SVG - 使用正确的 URL 编码 -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1500&color=7C4DFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+Explorer+%7C+Knowledge+Architect;Building+Smart+Tools+with+Code;Open+Source+Contributor+%7C+Tech+Explorer" alt="Typing SVG"/>
 
 <br/>
 
@@ -292,7 +293,7 @@ Open source contributor & tech explorer
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2500&pause=2000&color=7C4DFF,F9A825,06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Thanks+for+visiting!+👋;Have+a+great+day!;Star+my+repos+if+you+like+them+⭐" alt="Thanks"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2500&pause=2000&color=7C4DFF,F9A825,06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Thanks+for+visiting!;Have+a+great+day!" alt="Thanks"/>
 
 <br/>
 
