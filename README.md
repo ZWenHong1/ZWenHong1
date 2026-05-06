@@ -4,6 +4,17 @@
 
 ### Full-Stack & AI Developer · Knowledge Architect
 
+</div>
+
+<!-- 视频展示区 -->
+<div align="center">
+  <video src="./assets/assets.mp4" width="800" controls autoplay muted loop style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.2);"></video>
+</div>
+
+<br/>
+
+<div align="center">
+
 <a href="https://github.com/ZWenHong1">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1500&color=7C4DFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🤖+AI+Explorer+|+Knowledge+Architect;✨+Building+Smart+Tools+with+Code;🚀+Open+Source+Contributor+|+Tech+Explorer;💡+Passionate+about+LLMs+and+DevX" alt="Typing SVG"/>
 </a>
